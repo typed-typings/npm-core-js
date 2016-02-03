@@ -1,0 +1,1 @@
+import * as core-js from 'core-js'
