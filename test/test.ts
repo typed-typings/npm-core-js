@@ -1,1 +1,3 @@
-import * as core-js from 'core-js'
+import test = require('blue-tape');
+
+import core-js = require('core-js');

@@ -1,4 +1,13 @@
 {
   "name": "core-js",
-  "main": "core-js.d.ts"
+  "main": "index.d.ts",
+  "version": "2.2.1",
+  "homepage": "https://github.com/zloirock/core-js",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613",
+    "is-callable": "registry:npm/is-callable#1.1.3+20160323073145"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160319033040"
+  }
 }
