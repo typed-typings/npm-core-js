@@ -1,4 +1,6 @@
 # Typed Core Js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-core-js.svg)](https://greenkeeper.io/)
 The type definition for [`core-js`](https://github.com/zloirock/core-js)
 
 ## LICENSE
